@@ -1,0 +1,13 @@
+name: generate a build an push to another branch
+
+
+on:
+   push:
+       branches:
+       -master
+       jobs:
+       build:
+       runs-on: Ubuntu-latest
+       name: build and push
+       steps:
+       
