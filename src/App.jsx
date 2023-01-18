@@ -73,11 +73,11 @@ function App() {
       </button>
       <div className="bg-white text-stone-900 min-h-screen font-inter  dark:bg-stone-900 dark:text-stone-300">
         <div className="max-w-5xl w-11/12 mx-auto">
-        <Intro />
-        <PortFolio />
-        <Timeline />
-        <Contact />
-        <Footer />
+          <Intro />
+          <PortFolio />
+          <Timeline />
+          <Contact />
+          <Footer />
         </div>
       </div>
     </>
