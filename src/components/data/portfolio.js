@@ -15,6 +15,6 @@ export default [
     title: "Weather App",
     imgUrl: "assets/weather.jpg",
     stack: ["HTML", "CSS", "Bootstrap", "JS"],
-    link: "sample_link"
+    link: "https://frabjous-tiramisu-bb6ac6.netlify.app/"
   }
 ];
