@@ -3,18 +3,18 @@ export default [
     title: "Bird Finder",
     imgUrl: "assets/bird.jpg",
     stack: ["MongoDB", "Node.JS", "Express", "React", "MUI"],
-    link: "sample_link"
+    link: "https://bird-finder-deploy-c5lw14h5m-santimenasa.vercel.app/"
   },
   {
     title: "Book Store",
     imgUrl: "assets/books.jpg",
     stack: ["MongoDB", "Node.JS", "Express", "React", "MUI"],
-    link: "sample_link"
+    link: "https://santimenasa-book-store.vercel.app/"
   },
   {
     title: "Weather App",
     imgUrl: "assets/weather.jpg",
     stack: ["HTML", "CSS", "Bootstrap", "JS"],
-    link: "https://frabjous-tiramisu-bb6ac6.netlify.app/"
+    link: "https://weather-app-indol-zeta.vercel.app/"
   }
 ];
