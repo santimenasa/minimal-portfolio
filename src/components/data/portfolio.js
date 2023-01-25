@@ -3,7 +3,7 @@ export default [
     title: "Bird Finder",
     imgUrl: "assets/bird.jpg",
     stack: ["MongoDB", "Node.JS", "Express", "React", "MUI"],
-    link: "https://bird-finder-deploy-c5lw14h5m-santimenasa.vercel.app/"
+    link: "bird-finder-deploy.vercel.app"
   },
   {
     title: "Book Store",
