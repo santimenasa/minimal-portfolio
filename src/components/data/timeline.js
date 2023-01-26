@@ -1,6 +1,6 @@
 export default [
     {
-        year:'2020',
+        year:'2021',
         title:'Movistar',
         duration:'1 Year',
         detail:'Working with diferent APIs to create the fron end of the web page',
